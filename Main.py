@@ -3,7 +3,6 @@ import os
 from aiogram import Bot, Dispatcher, types, F
 from aiogram.types import Message
 from aiogram.filters import Command
-from aiogram.utils import executor
 
 # Включаємо логування
 logging.basicConfig(level=logging.INFO)
