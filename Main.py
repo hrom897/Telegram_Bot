@@ -8,7 +8,7 @@ import os
 logging.basicConfig(level=logging.INFO)
 
 # Твій Telegram ID (заміни на свій)
-ADMIN_ID = 7847653716
+ADMIN_ID = 7847653716 
 
 # Токен бота
 bot = Bot(token="7585427991:AAENGj1uCtdUIJhVAwbjRsSWiB4uyiHg7zA")
